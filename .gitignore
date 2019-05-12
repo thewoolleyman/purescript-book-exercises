@@ -3,6 +3,10 @@
 bower_components
 node_modules
 
+# .idea
+.idea/workspace.xml
+
 # Generated files
 .psci
 output
+
