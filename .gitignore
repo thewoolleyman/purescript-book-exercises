@@ -5,8 +5,11 @@ node_modules
 
 # .idea
 .idea/workspace.xml
+.idea/vcs.xml
 
 # Generated files
 .psci
+.psc-package
+.pulp-cache
 output
 
